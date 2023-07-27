@@ -13,6 +13,9 @@
  * @authorLink 
 */
 
+@import url("https://killyoy.github.io/DiscordNight/Addons/Vanilla_ServerList_Message_Notice.theme.css"); 
+@import url("https://killyoy.github.io/DiscordNight/Addons/Vanilla_Attachment_Button.theme.css"); 
+
 :root {
 	--Settings-Theme-Version: "DiscordNight v0.9.5.5";
 	
