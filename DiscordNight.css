@@ -21,10 +21,10 @@
 	--Channel-List-Active-Threads: flex;				/* flex = ON, none = OFF */
 	--Channel-List-Upcoming-Events: flex;				/* flex = ON, none = OFF */
 	--Channel-List-Boost-Goal: block;					/* block = ON, none = OFF */
-	--Channel-List-Width: 200px;						/* 200px, Discord default = 240px */
+	--Channel-List-Width: 240px;						/* 200px, Discord default = 240px */
 	
-	--User-List-Width: 200px;							/* 200px, Discord default = 240px */
-	--User-Popout-Width: 240px;							/* 240px, Discord default = 300px */
+	--User-List-Width: 240px;							/* 200px, Discord default = 240px */
+	--User-Popout-Width: 300px;							/* 240px, Discord default = 300px */
 	--User-Status-Popout-Width: var(--Channel-List-Width);/* 240px, Discord default = 300px */
 	
 	--Search-List-Width: 488px;							/* 488px, Discord default = 418px */
@@ -33,8 +33,8 @@
 	--Emoji-Menu-Height: 618px;							/* 618px or 498px, Discord default = 444px */
 	
 	--Chatbox-Gift-Button: none;						/* flex = ON, none = OFF */
-	--Chatbox-GIF-Button: none;							/* flex = ON, none = OFF */
-	--Chatbox-Stickers-Button: none;					/* flex = ON, none = OFF */
+	--Chatbox-GIF-Button: flex;							/* flex = ON, none = OFF */
+	--Chatbox-Stickers-Button: flex;					/* flex = ON, none = OFF */
 	
 	--Chat-Emoji-Size: 1.75rem;							/* 1.75rem, Discord default = 1.375rem */
 	--Chat-Emoji-Large-Size: 2rem;						/* 2rem, Discord default = 3rem */
@@ -44,7 +44,7 @@
 	
 	--Text-Channels-Capital-Letter: capitalize;			/* capitalize, none */
 	
-	--Voice-Noise-Suppression: none;					/* flex = ON, none = OFF */
+	--Voice-Noise-Suppression: flex;					/* flex = ON, none = OFF */
 	--Start-Activities-Button: flex;					/* flex = ON, none = OFF */
 	
 	--Embed-Remove-Button: flex;						/* flex = ON, none = OFF */
