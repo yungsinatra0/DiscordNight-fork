@@ -39,7 +39,7 @@
 	--Chatbox-GIF-Button: flex;							/* flex = ON, none = OFF */
 	--Chatbox-Stickers-Button: flex;					/* flex = ON, none = OFF */
 	
-	--Chat-Emoji-Size: 1.75rem;							/* 1.75rem, Discord default = 1.375rem */
+	--Chat-Emoji-Size: 1.375rem;							/* 1.75rem, Discord default = 1.375rem */
 	--Chat-Emoji-Large-Size: 2rem;						/* 2rem, Discord default = 3rem */
 	--Chat-Sticker-Size: 10rem;							/* 5rem, Discord default = 10rem */
 	--Chat-Wave-To-New-User-Button: flex;				/* flex = ON, none = OFF */
